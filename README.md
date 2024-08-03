@@ -85,6 +85,8 @@ Now Docker and Docker Compose should be installed and ready to use. You can veri
 - config/mongoose.js - MongoDB connection configuration
 - tests/ - Test files for the API
 
+## To run tests, use the following command:
+  - `docker-compose run app npm test`
 
 ## => Some useful commands for docker environment
 
